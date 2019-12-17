@@ -509,3 +509,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.17-05.23.17:402][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
 [2019.12.17-05.23.17:542][  0]LogInit: Transaction tracking system initialized
 [2019.12.17-05.23.17:776][  0]BlueprintLog: New page: Editor Load
+[2019.12.17-05.23.18:937][  0]LocalizationService: Localization service is disabled
+[2019.12.17-05.23.19:800][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/SchoolSimulator/SchoolSim/Content/' took 0.00s
+[2019.12.17-05.23.19:800][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.17-05.23.19:800][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.17-05.23.21:089][  0]SourceControl: Source control is disabled
+[2019.12.17-05.23.21:089][  0]LightingResults: New page: Lighting Build
+[2019.12.17-05.23.21:101][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-05.23.21:101][  0]MapCheck: New page: Map Check
+[2019.12.17-05.23.21:101][  0]LightingResults: New page: Lighting Build
+[2019.12.17-05.23.21:136][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.17-05.23.21:398][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-05.23.21:464][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-05.23.21:498][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.17-05.23.21:499][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-05.23.21:499][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2019.12.17-05.23.21:499][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.410
+[2019.12.17-05.23.21:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-05.23.21:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-05.23.21:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-05.23.21:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-05.23.21:722][  0]LogCollectionManager: Loaded 0 collections in 0.001988 seconds
+[2019.12.17-05.23.21:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/SchoolSimulator/SchoolSim/Saved/Collections/' took 0.00s
+[2019.12.17-05.23.21:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/SchoolSimulator/SchoolSim/Content/Developers/Administrator/Collections/' took 0.00s
+[2019.12.17-05.23.21:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/SchoolSimulator/SchoolSim/Content/Collections/' took 0.00s
+[2019.12.17-05.23.21:728][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.17-05.23.21:738][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2863 classes and 680 folders.
+[2019.12.17-05.23.21:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.17-05.23.21:792][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-05.23.21:809][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.17-05.23.21:988][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.17-05.23.21:989][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.17-05.23.22:047][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-05.23.22:047][  0]LogLoad: (Engine Initialization) Total time: 17.42 seconds
+[2019.12.17-05.23.22:047][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.17-05.23.22:104][  0]LogAssetRegistry: Asset discovery search completed in 12.5338 seconds
+[2019.12.17-05.23.22:108][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.17-05.23.22:108][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.12.17-05.23.22:108][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.17-05.23.22:121][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.17-05.23.22:307][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-05.23.22:336][  0]LogRenderer: Reallocating scene render targets to support 732x332 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-05.23.50:291][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 5
